@@ -1,1 +1,1 @@
-                                                                                                 # Yoga-Stickers
+                                                  Yoga-Stickers
