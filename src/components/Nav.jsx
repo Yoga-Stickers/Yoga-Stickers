@@ -28,8 +28,3 @@ export default function Nav() {
         </div>
     )
 }
-
-
-
-// #20bdf9
-// #0c49d7
